@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/mascothaichi/
+  facebook: mascothaichi
   flickr:
   instagram:
   linkedin:
@@ -81,3 +81,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
+Test nội dung
